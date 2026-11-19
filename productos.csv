@@ -1,0 +1,17 @@
+codigo,nombre,tipo,marca,precio
+P001,Leche entera 1L,Lacteos,La Serenisima,1450
+P002,Yogur frutilla,Lacteos,Ser,980
+P003,Queso cremoso,Lacteos,Ilolay,6200
+P004,Galletitas dulces,Conservas,Mayco,1250
+P005,Tomate triturado,Conservas,Arcor,1100
+P006,Arvejas,Conservas,La Campagnola,950
+P007,Detergente limon,Limpieza,Ala,2100
+P008,Lavandina 1L,Limpieza,Ayudin,1800
+P009,Jabon en polvo,Limpieza,Ariel,5300
+P010,Gaseosa cola 2L,Gaseosas,Coca Cola,3200
+P011,Gaseosa lima 2L,Gaseosas,Sprite,3000
+P012,Agua sin gas 2L,Bebidas,Salta,1200
+P013,Jugo de naranja,Bebidas,Baggio,1450
+P014,Cerveza rubia,Bebidas alcoholicas,Quilmes,2500
+P015,Vino tinto,Bebidas alcoholicas,Termidor,4100
+P016,Aceite de girasol,Almacen,Cocinero,2800
