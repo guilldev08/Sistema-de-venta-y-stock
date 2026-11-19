@@ -163,6 +163,7 @@ while True:
                     break
 
         case 2:
+            # La tabla, el menu y la actualizacion del stock estan en stock.py
             menu_stock()
         case 3:
             menu_ventas()
