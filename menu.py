@@ -169,6 +169,7 @@ while True:
             # El carrito, el stock y las ventas se manejan en venta.py
             menu_ventas()
         case 4:
+            # Los reportes leen ventas.csv y sub_venta.csv desde reporte.py
             menu_reporte()
         case 5:
             print("Hasta luego")
