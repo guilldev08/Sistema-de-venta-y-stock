@@ -166,6 +166,7 @@ while True:
             # La tabla, el menu y la actualizacion del stock estan en stock.py
             menu_stock()
         case 3:
+            # El carrito, el stock y las ventas se manejan en venta.py
             menu_ventas()
         case 4:
             menu_reporte()

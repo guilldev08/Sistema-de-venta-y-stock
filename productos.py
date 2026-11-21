@@ -356,14 +356,12 @@ def seleccionar_producto():
             imprimir_tabla([producto])
 
         elif opcion == 2:
-            print("Seguro que desea eliminar el producto? (s/n)")
-            confirmacion = input().strip().lower()
+            print("Seguro que desea eliminar el producto?")
+            print("1. Si")
+            print("2. No")
+            confirmacion = pedir_numero("Ingrese un numero: ", 1, 2)
 
-            while confirmacion != "s" and confirmacion != "n":
-                print("Ingrese s o n")
-                confirmacion = input().strip().lower()
-
-            if confirmacion == "s":
+            if confirmacion == 1:
                 eliminar_producto(producto["codigo"])
                 return
 
